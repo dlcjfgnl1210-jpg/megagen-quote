@@ -1,5 +1,5 @@
 // MEGAGEN Quote PWA service worker
-const CACHE = "mgquote-v2-1";
+const CACHE = "mgquote-v2-2";
 const ASSETS = [
   "./index.html",
   "./manifest.webmanifest",
